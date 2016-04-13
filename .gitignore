@@ -1,0 +1,12 @@
+cocos2d/
+bin/
+proj.android/bin/
+proj.android/.externalToolBuilders/
+proj.android/.settings/
+proj.android/assets/
+proj.android/gen/
+proj.android/libs/armeabi/libcocos2dcpp.so
+proj.android/obj/
+proj.win32/Debug.win32
+proj.win32/*.sdf
+proj.win32/res/
